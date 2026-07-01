@@ -1,4 +1,5 @@
 # write an code to check that prime number or not
+
 def is_prime(num):
     if num <= 1:
         return False
