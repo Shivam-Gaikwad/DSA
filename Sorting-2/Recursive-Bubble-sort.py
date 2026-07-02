@@ -1,5 +1,4 @@
 def bubble_sort(arr, n):
-    # Base case: if only 1 element, return
     if n == 1:
         return
 
